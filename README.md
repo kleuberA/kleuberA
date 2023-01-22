@@ -1,6 +1,5 @@
 
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kleuberA&theme=blue-green&locale=pt_BR)](https://git.io/streak-stats)
+
 
   <picture>
   <source 
@@ -8,4 +7,4 @@
     media="(prefers-color-scheme: dark)"
   />
   </picture>
-</div>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kleuberA&theme=blue-green&locale=pt_BR)](https://git.io/streak-stats)
